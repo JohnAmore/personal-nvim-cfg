@@ -1,6 +1,6 @@
 # My Personal NeoVim Config
 
-A small set up for Neovim that I use on a daily basis. Based on the framework of Kickstart. 
+A small set up for Neovim that I use on a daily basis. Based on the framework Kickstart. 
 
 ## Custom Plugins
 
